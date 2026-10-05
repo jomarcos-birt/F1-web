@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f2f2f2;
+    color: #222;
+}
+
+header {
+    background-color: #111;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+main {
+    padding: 30px;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+h1 {
+    font-family: Georgia, serif;
+    font-size: 36px;
+    color: #e10600;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    color: #333333;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+    font-size: 17px;
+}
+
+nav a:hover {
+    color: #e10600;
+}
+
+/* Ajustar el Tamaño y posicion de las imágenes */
+section img {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
