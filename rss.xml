@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Gran Premio de España - Fórmula 1</title>
+        <link>https://jomarcos-birt.github.io/F1-web/</link>
+        <description>Novedades del Gran Premio de España.</description>
+        <language>es</language>
+
+        <item>
+            <title>Novedades del circuito de Barcelona-Catalunya</title>
+            <link>https://jomarcos-birt.github.io/F1-web/circuito.html</link>
+            <description>Información sobre las características del circuito.</description>
+            <pubDate>Thu, 29 Oct 2026 10:00:00 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Novedades sobre la carrera de Fórmula 1</title>
+            <link>https://jomarcos-birt.github.io/F1-web/carrera.html</link>
+            <description>Información sobre los pilotos y el desarrollo de la carrera.</description>
+            <pubDate>Thu, 29 Oct 2026 11:00:00 +0100</pubDate>
+        </item>
+
+    </channel>
+</rss>
